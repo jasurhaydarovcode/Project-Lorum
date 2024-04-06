@@ -110,10 +110,6 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom: 90px;
   }
 
-.arrow-block:hover {
-  background: #F9F9F9;
-}
-
 .page {
   display: flex;
   align-items: center;
@@ -206,12 +202,6 @@ h1, h2, h3, h4, h5, h6, p {
   border-top: 1px solid transparent;
   border-bottom: 1px solid transparent;
   transition: all 0.2s ease;
-}
-
-.menu a:hover {
-  border-top: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  padding: 4px 0; 
 }
 
 /* header end */
@@ -338,10 +328,6 @@ h1, h2, h3, h4, h5, h6, p {
 
 .section-4-wrap {
   position: relative;
-}
-
-.section-4-wrap:hover .overlay {
-  opacity: 1;
 }
 
 .overlay {
@@ -574,7 +560,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .pinterest {
-  background: url(images/footer/Shape\ \(2\).png);
+  background: url(images/footer/Shape\ \(2\).png); 
   display: inline-block;
   width: 14px;
   height: 19px;

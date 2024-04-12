@@ -2,6 +2,8 @@ body{
   margin: 0;
   padding: 0
 }
+
+/* ============ Font Family ============ */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
 @font-face {
@@ -28,6 +30,8 @@ body{
   font-weight: 500;
 }
 
+
+/* ========= General ========= */
 * {
   box-sizing: border-box;
 }
@@ -43,6 +47,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom: 15px;
 }
 
+/* * ====== Container ====== */
 
 .container {
   max-width: 1170px;
